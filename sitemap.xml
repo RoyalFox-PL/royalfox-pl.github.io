@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>https://royalfox-pl.github.io/categories/</loc>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://royalfox-pl.github.io/contact/</loc>
   </url><url>
-    <loc>/cybersecurity/</loc>
+    <loc>https://royalfox-pl.github.io/cybersecurity/</loc>
   </url><url>
-    <loc>/test/</loc>
+    <loc>https://royalfox-pl.github.io/test/</loc>
   </url><url>
-    <loc>/gamedev/</loc>
+    <loc>https://royalfox-pl.github.io/gamedev/</loc>
   </url><url>
-    <loc>/it-outsourcing/</loc>
+    <loc>https://royalfox-pl.github.io/it-outsourcing/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://royalfox-pl.github.io/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://royalfox-pl.github.io/tags/</loc>
   </url>
 </urlset>
